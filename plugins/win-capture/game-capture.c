@@ -974,6 +974,9 @@ static const char *blacklisted_exes[] = {
 	"searchui",
 	"lockapp",
 	"windowsinternal.composableshell.experiences.textinput.inputapp",
+	"playnite.fullscreenapp",
+	"plex",
+	"jellyfinmediaplayer",
 	NULL,
 };
 
